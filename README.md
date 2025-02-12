@@ -15,6 +15,7 @@ and
 y = a0 + a1 * x + a2 * x, a3.x**2 +_ _ _ + an*x**n
 
 - Best fit curve for the datasets
+
 ![image alt](https://github.com/Raj41raju/Polynomial_Regression/blob/main/Polynomial_Regg_BestFitCurve.png?raw=true)
 
 ### Choosing the Right Degree
@@ -37,6 +38,7 @@ The degree of the polynomial controls how curvy the line is.
 - Avoid excessive complexity unless absolutely necessary.
 
 - Following curve is overfitting because very high value of DoF
+
 ![image alt](https://github.com/Raj41raju/Polynomial_Regression/blob/main/Polynomial_Regg_overfitting.png?raw=true)
 
 
