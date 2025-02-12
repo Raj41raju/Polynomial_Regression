@@ -14,6 +14,8 @@ and
 
 y = a0 + a1 * x + a2 * x, a3.x**2 +_ _ _ + an*x**n
 
+![image alt](https://github.com/Raj41raju/Polynomial_Regression/blob/main/Polynomial_Regg_BestFitCurve.png?raw=true)
+
 ### Choosing the Right Degree
 
 #### : Choosing the Right Degree (How Much Curve?)
@@ -32,6 +34,9 @@ The degree of the polynomial controls how curvy the line is.
 - Start with a low degree and **gradually increase**.
 - Use can use the  **cross-validation** to find the optimal degree.
 - Avoid excessive complexity unless absolutely necessary.
+
+![image alt](https://github.com/Raj41raju/Polynomial_Regression/blob/main/Polynomial_Regg_overfitting.png?raw=true)
+
 
 ## Key Points
  - Start with degree 1 and increase gradually.
